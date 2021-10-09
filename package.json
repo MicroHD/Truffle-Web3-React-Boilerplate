@@ -1,0 +1,17 @@
+{
+  "name": "truffle-web3-react-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MicroHD/Truffle-Web3-React-Boilerplate.git",
+  "author": "MicroHD",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "react": "^17.0.2",
+    "redux": "^4.1.1",
+    "truffle": "^5.4.14",
+    "web3": "^1.6.0"
+  }
+}
